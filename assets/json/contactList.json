@@ -1,0 +1,75 @@
+{
+  "status": "true",
+  "data": [
+    {
+      "id": "01",
+      "firstName": "Michael",
+      "lastName": "Kranitz",
+      "designation": "CEO",
+      "organization": "EventSquid , LLC"
+    },
+    {
+      "id": "02",
+      "firstName": "Dan",
+      "lastName": "Morris",
+      "designation": "COO",
+      "organization": "EventSquid , LLC"
+    },
+    {
+      "id": "03",
+      "firstName": "Mike",
+      "lastName": "Jordan",
+      "designation": "CEO",
+      "organization": "LaunchSquid , LLC"
+    },
+    {
+      "id": "04",
+      "firstName": "Jane",
+      "lastName": "Hopper",
+      "designation": "HR Manager",
+      "organization": "EventSquid , LLC"
+    },
+    {
+      "id": "05",
+      "firstName": "Steve",
+      "lastName": "Harrington",
+      "designation": "Sales Manager",
+      "organization": "LaunchSquid , LLC"
+    },
+    {
+      "id": "06",
+      "firstName": "Josh",
+      "lastName": "Gayle",
+      "designation": "CEO",
+      "organization": "InReach , LLC"
+    },
+    {
+      "id": "07",
+      "firstName": "Bob",
+      "lastName": "Butler",
+      "designation": "BDE",
+      "organization": "EventSquid , LLC"
+    },
+    {
+      "id": "08",
+      "firstName": "Willie",
+      "lastName": "Homesoon",
+      "designation": "Sales Manager",
+      "organization": "LaunchSquid , LLC"
+    },
+    {
+      "id": "09",
+      "firstName": "Jack",
+      "lastName": "Sparrow",
+      "designation": "Sales Manager",
+      "organization": "InReach , LLC"
+    },
+    {
+      "id": "10",
+      "firstName": "Wayde",
+      "lastName": "Hopper",
+      "designation": "Sales Manager",
+      "organization": "LaunchSquid , LLC"
+    }
+  ]
+}
